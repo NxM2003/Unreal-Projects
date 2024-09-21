@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/manav/OneDrive/Documents/Unreal Projects/tut/GdwTut1/Content/FrameWork/BP_GameMode.uasset",
+				"C:/Users/manav/OneDrive/Documents/Unreal Projects/tut/GdwTut1/Content/Tut_2/FrameWork/BP_GameMode.uasset",
+				"C:/Users/manav/OneDrive/Documents/Unreal Projects/tut/GdwTut1/Content/Tut_2/BluePrints/BP_FPCharacter.uasset",
+				"C:/Users/manav/OneDrive/Documents/Unreal Projects/tut/GdwTut1/Content/Tut_2/BluePrints/Character/BP_FPCharacter.uasset",
+				"C:/Users/manav/OneDrive/Documents/Unreal Projects/tut/GdwTut1/Content/Tut_2/BluePrints/Character/InputAction/IA_Jump.uasset",
+				"C:/Users/manav/OneDrive/Documents/Unreal Projects/tut/GdwTut1/Content/Tut_2/BluePrints/Character/InputAction/IA_Look.uasset",
+				"C:/Users/manav/OneDrive/Documents/Unreal Projects/tut/GdwTut1/Content/Tut_2/BluePrints/Character/InputAction/IA_Move.uasset",
+				"C:/Users/manav/OneDrive/Documents/Unreal Projects/tut/GdwTut1/Content/Tut_2/BluePrints/Character/IMC_Default.uasset",
+				"C:/Users/manav/OneDrive/Documents/Unreal Projects/tut/GdwTut1/Content/idk.umap"
+			]
+		}
+	]
+}
